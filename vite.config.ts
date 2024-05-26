@@ -17,4 +17,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base:"/landing_page_republica"
 })
